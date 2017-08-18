@@ -1,0 +1,1181 @@
+[
+	{
+		"model": "travel_details.Ministry",
+		"pk": 1,
+		"fields": {
+			"name": "Minsitere du Budget",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk": 2,
+		"fields": {
+			"name": "Ministre de l’Economie et des Finances",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":3 ,
+		"fields": {
+			"name": "Ministere de la Justice",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":4 ,
+		"fields": {
+			"name": "Ministere des Transports",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":5 ,
+		"fields": {
+			"name": "Ministere de l’Hôtellerie",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":6 ,
+		"fields": {
+			"name": "Ministere de l’Administration du Territoire",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":7 ,
+		"fields": {
+			"name": "Ministere des Affaires Etrangères",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":8 ,
+		"fields": {
+			"name": "Ministere du Plan et de la Coopération Internationale",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":9 ,
+		"fields": {
+			"name": "Ministere de l’Energie et de l’Hydraulique",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":10 ,
+		"fields": {
+			"name": "Ministere de l’Agriculture",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk": 11,
+		"fields": {
+			"name": "Ministere de la Ville et de l’Aménagement du Territoire",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":12 ,
+		"fields": {
+			"name": "Ministere des Mines et de la Géologie",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":13 ,
+		"fields": {
+			"name": "Ministere des Travaux Publics",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk": 14,
+		"fields": {
+			"name": "Ministere de l’Enseignement Supérieur",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":15 ,
+		"fields": {
+			"name": "Ministere du Commerce",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":16 ,
+		"fields": {
+			"name": "Ministere de l’Unité Nationale et de la Citoyenneté",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk": 17,
+		"fields": {
+			"name": "Ministere de l’Action Sociale et de la Promotion Féminine",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":18 ,
+		"fields": {
+			"name": "Ministere de la Jeunesse",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":19 ,
+		"fields": {
+			"name": "Ministere des Postes et Télécommunications",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":20 ,
+		"fields": {
+			"name": "Ministere de la Santé",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":21 ,
+		"fields": {
+			"name": "Ministere de la Communication",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":22 ,
+		"fields": {
+			"name": "Ministre des Pêches et de l’Aquaculture",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":23 ,
+		"fields": {
+			"name": "Ministere de l’Environnement, des Eaux et Forets",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":24 ,
+		"fields": {
+			"name": "Ministere de l’Elevage et des Productions Animales",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":25 ,
+		"fields": {
+			"name": "Ministre de la Culture et des Sports",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":26 ,
+		"fields": {
+			"name": "Secrétaire Général du Gouvernement",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Ministry",
+		"pk":27 ,
+		"fields": {
+			"name": "Secrétaire Général des Affaires Religieuses",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 1,
+		"fields": {
+			"name": "Guinea Airline",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 1,
+		"fields": {
+			"name": "Guinea AirLines",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 2,
+		"fields": {
+			"name": "Air France",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 3,
+		"fields": {
+			"name": "Turkis AirLines",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 4,
+		"fields": {
+			"name": "Emirates",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 5,
+		"fields": {
+			"name": "Aigle Azure",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 6,
+		"fields": {
+			"name": "TinisAir",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 7,
+		"fields": {
+			"name": "Brusels AirLines",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Flight",
+		"pk": 8,
+		"fields": {
+			"name": "Royal Air Maroc",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.ClassType",
+		"pk": 1,
+		"fields": {
+			"name": "Economie",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.ClassType",
+		"pk": 2,
+		"fields": {
+			"name": "Premiere",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.ClassType",
+		"pk": 3,
+		"fields": {
+			"name": "Affaire",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 1,
+		"fields": {
+			"email": "amal.ambassadorvoyages@gmail.com",
+			"name": "AMBASSADOR VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 2,
+		"fields": {
+			"email": "barryvoyages@yahoo.fr",
+			"name": "BARRY VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 3,
+		"fields": {
+			"email": "elhadjibrahimabah@yahoo.fr",
+			"name": "BOUMMALOL VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 4,
+		"fields": {
+			"email": "Daye_voyage@yahoo.fr",
+			"name": "DAYE VOYAGE",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 5,
+		"fields": {
+			"email": "Sophie-Bobinski.GHUSSEIN@bollore.com",
+			"name": "SDV",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 6,
+		"fields": {
+			"email": "Bahdjamy16@yahoo.fr",
+			"name": "DUNIA VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 7,
+		"fields": {
+			"email": "bintahabi@yahoo.fr",
+			"name": "FATIMA VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 8,
+		"fields": {
+			"email": "guineevoyages@yahoo.fr",
+			"name": "GUINEE VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 9,
+		"fields": {
+			"email": "ipcvoyagesguinee@hotmail.fr",
+			"name": "IPC VOYAGES  SA",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 10,
+		"fields": {
+			"email": "karouvoyagegn2003@yahoo.com",
+			"name": "KAROU VOYAGES CONAKRY",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 11,
+		"fields": {
+			"email": "ksdvoyages@hotmail.com",
+			"name": "KSD VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 12,
+		"fields": {
+			"email": "smcnegocevoyage@yahoo.fr",
+			"name": "SMC NEGOCE",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 13,
+		"fields": {
+			"email": "sahuja@satguruun.com",
+			"name": "SATGURU TRAVEL CONAKRY",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 14,
+		"fields": {
+			"email": "atvbgui@yahoo.fr",
+			"name": "TENNEN VOYAGES (ATV)",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 15,
+		"fields": {
+			"email": "fatme.chaloub@tropikavoyages.com",
+			"name": "TROPIKA VOYAGES & TOURISME",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 16,
+		"fields": {
+			"email": "premiumvoyage@outlook.com",
+			"name": "PREMIUM VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 17,
+		"fields": {
+			"email": "fakonavoyage2016@gmail.com",
+			"name": "FAKONA VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 18,
+		"fields": {
+			"email": "info@mondialexpress.gn.net",
+			"name": "MONDIAL EXPRESS",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 19,
+		"fields": {
+			"email": "dtacky2@hotmail.com",
+			"name": "DOUNO INT VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 20,
+		"fields": {
+			"email": "haidaravoyages@gmail.com",
+			"name": "HAIDARA VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 21,
+		"fields": {
+			"email": "mkicbvoyages@gmail.com",
+			"name": "M.K.I.C.B VOYAGES-TOURISME",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 22,
+		"fields": {
+			"email": "sales@groupemondialtour.com",
+			"name": "MONDIAL TOURS GUINEE",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 23,
+		"fields": {
+			"email": "conakry@wahegurutravels.com",
+			"name": "WAHEGURU TRAVELS",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Agency",
+		"pk": 24,
+		"fields": {
+			"email": "abidinevoyages@yahoo.fr",
+			"name": "ABIDINE VOYAGES",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-07 07:07:07.61434+00",
+			"updated_at": "2017-07-07 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.User",
+		"pk": 1,
+		"fields": {
+			"is_superuser": "True",
+			"is_admin": "True",
+			"is_staff": "True",
+			"email": "admin@admin.com",
+			"ministry": "1",
+			"first_name": "admin",
+			"last_name": "admin",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.User",
+		"pk": 2,
+		"fields": {
+			"is_superuser": "False",
+			"is_admin": "False",
+			"is_staff": "False",
+			"email": "user@user.com",
+			"ministry": "1",
+			"first_name": "user",
+			"last_name": "user",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.User",
+		"pk": 3,
+		"fields": {
+			"is_superuser": "False",
+			"is_admin": "False",
+			"is_staff": "False",
+			"email": "test@test.com",
+			"ministry": "2",
+			"first_name": "test",
+			"last_name": "test",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.User",
+		"pk": 4,
+		"fields": {
+			"is_superuser": "False",
+			"is_admin": "False",
+			"is_staff": "False",
+			"is_agency": "True",
+			"email": "agence@agence.com",
+			"first_name": "agence",
+			"last_name": "agence",
+			"password": "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+    "model": "travel_details.User",
+    "pk": 5,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "amal.ambassadorvoyages@gmail.com",
+		"first_name" : "AMBASSADOR VOYAGES",
+		"phone" : "664224422",
+		"address" : "6, AV DE LA REPUBLIQUE  BP 6041",
+        "password" : "pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+  {
+    "model": "travel_details.User",
+    "pk": 6,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "barryvoyages@yahoo.fr",
+        "first_name" : "BARRY VOYAGES",
+		"phone" : "602 67 237",
+		"address" : "6 EME, AVENUE DE LA REPUBLIQUE",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 7,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "elhadjibrahimabah@yahoo.fr",
+        "first_name" : "BOUMMALOL VOYAGES",
+		"phone" : "60292813",
+		"address" : "MADINA-ECOLE BP 698",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 8,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "Daye_voyage@yahoo.fr",
+        "first_name" : "DAYE VOYAGE",
+		"phone" : "631270091",
+		"address" : "IMMEUBLE KALOUM ( EX BUREAU) SABENA BP 3031 BP 5722",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 9,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "Sophie-Bobinski.GHUSSEIN@bollore.com",
+        "first_name" : "SDV",
+		"phone" : "622626246",
+		"address" : "IMMEUBLE G BANTAMA CITE CHEMIN DE FER CKY BP 2011",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 10,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "Bahdjamy16@yahoo.fr",
+        "first_name" : "DUNIA VOYAGES",
+		"phone" : "",
+		"address" : "IMM. SOPHIE NDIAYE 5EME AVENUE ANGLE MOSQUE SENEGALAISE  BP 4741",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 11,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "bintahabi@yahoo.fr",
+		"first_name" : "FATIMA VOYAGES",
+		"phone" : "601592981",
+		"address" : "IMMEUBLE FAWAZ 5E AVENUE DE LA REP. , COMMUNE DE KALOUM",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 12,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "guineevoyages@yahoo.fr",
+        "first_name" : "GUINEE VOYAGES",
+		"phone" : "628220123",
+		"address" : "BP 5842 CONAKRY",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 13,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "ipcvoyagesguinee@hotmail.fr",
+        "first_name" : "IPC VOYAGES  SA",
+		"phone" : "631455663",
+		"address" : "6, AVENUE DE LA REPUBLIQUE  QUARTIER MANQUPAS  COMMUNE DE KALOUM",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 14,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "karouvoyagegn2003@yahoo.com",
+        "first_name" : "KAROU VOYAGES CONAKRY",
+		"phone" : "30452042",
+		"address" : "AVENUE DE LA REPUBLIQUE  BP 3815",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 15,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "ksdvoyages@hotmail.com",
+        "first_name" : "KSD VOYAGES",
+		"phone" : "631270088",
+		"address" : "IMMEUBLE AL -IMAM  SUR ECOBANK, COMMUNE DE KALOUM  BP 2679",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 16,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "smcnegocevoyage@yahoo.fr",
+        "first_name" : "SMC NEGOCE",
+		"phone" : "631961622",
+		"address" : "IMMEUBLE ZAIDANE",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 17,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "sahuja@satguruun.com",
+        "first_name" : "SATGURU TRAVEL CONAKRY",
+		"phone" : "664363636",
+		"address" : "QUARTIER ALMAMYA,7EME AV.",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 18,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "atvbgui@yahoo.fr",
+        "first_name" : "TENNEN VOYAGES (ATV)",
+		"phone" : "657216293",
+		"address" : "AEROGARE NATIONALE DE GBESSIA  BP5037",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 19,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "fatme.chaloub@tropikavoyages.com",
+        "first_name" : "TROPIKA VOYAGES & TOURISME",
+		"phone" : "656291018",
+		"address" : "ALMAMYA RUE KA 28 BP 4899",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 20,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "premiumvoyage@outlook.com",
+        "first_name" : "PREMIUM VOYAGES",
+		"phone" : "660101111",
+		"address" : "MANQUE PAS EN FACE CLINIQUE PASTEUR",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 21,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "fakonavoyage2016@gmail.com",
+        "first_name" : "FAKONA VOYAGES",
+		"phone" : "622570317",
+		"address" : "AVENUE DE LA REPUBLIQUE IMMEUBLE BANQUE ISLAMIQUE_KALOUM",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 22,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "info@mondialexpress.gn.net",
+        "first_name" : "MONDIAL EXPRESS",
+		"phone" : "656312424",
+		"address" : "ALMAMYA 8 EME AVENUE",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 23,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "dtacky2@hotmail.com",
+        "first_name" : "DOUNO INT VOYAGES",
+		"phone" : "",
+		"address" : "BLD DIALLO TELLY SANDERVALIA BP 2547",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 24,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "haidaravoyages@gmail.com",
+        "first_name" : "HAIDARA VOYAGES",
+		"phone" : "624787828",
+		"address" : "AVENUE DE LA REPUBLIQUE-HOTEL KALOUM BP 3031",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 25,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "mkicbvoyages@gmail.com",
+        "first_name" : "M.K.I.C.B VOYAGES-TOURISME",
+		"phone" : "628270068",
+		"address" : "8 EME AVENUE BOULEVARD DE LA POSTE-RUE K",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 26,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "sales@groupemondialtour.com",
+        "first_name" : "MONDIAL TOURS GUINEE",
+		"phone" : "631266948",
+		"address" : "IMMEUBLE DIALLO-FRERE RONT POINT BELLE VUE",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+    {
+    "model": "travel_details.User",
+    "pk": 27,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "conakry@wahegurutravels.com",
+        "first_name" : "WAHEGURU TRAVELS",
+		"phone" : "666434444",
+		"address" : "NEAR TO MTN DIRECTION KALOUM BP 4716",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+    }
+  },
+  {
+    "model": "travel_details.User",
+    "pk": 28,
+    "fields": {
+        "is_superuser" : "False",
+        "is_admin": "False",
+        "is_agency" : "True",
+        "is_staff" : "False",
+        "email": "abidinevoyages@yahoo.fr",
+        "first_name" : "ABIDINE VOYAGES",
+		"phone" : "631202552",
+		"address" : "ALMAMYAH",
+		"password" :"pbkdf2_sha256$20000$2nQjdtoy4qiN$+mbER+cbXOReNlNGoqBXRsAWVlLHIFvhCBe0TRx7qEw=",
+        "created_at": "2017-08-01 07:07:07.61434+00",
+        "updated_at": "2017-08-01 07:07:07.61434+00"
+	   }
+    },
+	{
+		"model": "travel_details.Mission",
+		"pk": 1,
+		"fields": {
+			"user": "2",
+			"mission_title": "Formation GIS",
+			"mission_description": " Formation certifiante en GIS",
+			"mission_city": "Berlin – Aéroport Schönefeld",
+			"mission_country": "DE",
+			"mission_departure_date": "2017-08-26",
+			"mission_return_date": "2017-11-28",
+			"class_type": "1",
+			"document": "",
+			"uploaded_at": "2017-07-16 07:07:07.61434+00",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Mission",
+		"pk": 2,
+		"fields": {
+			"user": "3",
+			"mission_title": "mission d'etat",
+			"mission_description": "mission a mamou",
+			"mission_city": "Conakry - Aéroport international de Conakry",
+			"mission_country": "GN",
+			"mission_departure_date": "2017-09-20",
+			"mission_return_date": "2017-10-28",
+			"class_type": "2",
+			"document": "",
+			"uploaded_at": "2017-07-16 07:07:07.61434+00",
+			"created_at": "2017-07-16 07:07:07.61434+00",
+			"updated_at": "2017-07-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Personne",
+		"pk": 1,
+		"fields": {
+			"passport_number": "001",
+			"first_name" : "Voyageur 1",
+			"last_name" : "Voyageur 1",
+			"email": "voyageur1@voyageur1.com",
+			"matricule": "001",
+			"state": "fonctionnaire",
+			"created_at": "2017-08-16 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Personne",
+		"pk": 2,
+		"fields": {
+			"passport_number": "002",
+			"first_name" : "Voyageur 2",
+			"last_name" : "Voyageur 2",
+			"email": "voyageur1@voyageur1.com",
+			"matricule": "002",
+			"state": "fonctionnaire",
+			"created_at": "2017-07-26 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Mission_Personne",
+		"pk": 1,
+		"fields": {
+			"mission": 1,
+			"persone" : 1,
+			"class_type": 2,
+			"created_at": "2017-07-26 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Mission_Personne",
+		"pk": 2,
+		"fields": {
+			"mission": 1,
+			"persone" : 2,
+			"class_type": 3,
+			"created_at": "2017-07-26 07:07:07.61434+00"
+		}
+	},
+	{
+		"model": "travel_details.Mission_Personne",
+		"pk": 3,
+		"fields": {
+			"mission": "2",
+			"persone" : "1",
+			"class_type": "1",
+			"created_at": "2017-07-26 07:07:07.61434+00"
+		}
+	}
+]
